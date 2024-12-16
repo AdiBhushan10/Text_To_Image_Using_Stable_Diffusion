@@ -3,7 +3,10 @@ Huggingface's Stable diffusion models generate images based on the user input (t
 
 Pre-requisites:
 -Python 3.9.X
+
 -Cuda 12.4 or 12.5
+
 -Cudnn v8.9.7
+
 -Huggingface account
 
